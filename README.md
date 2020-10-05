@@ -23,10 +23,7 @@ To become a *Seed Funder*:
 3. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
 4. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (see [Token Distribution](#token-distribution) below). This is the number of `W3API` you will receive.
 5. Press **Create Request** to initiate the proposal and deposit your funds.
-6. Email [web3api@dorg.tech](mailto:web3api@dorg.tech) with subject line 'Token Request' and the following info:
-   - Name
-   - ETH Address
-   - Brief background on who you are and what strategic value you bring to the project
+6. Fill out [this quick form](https://airtable.com/shrE0bMs1D07FV3oO).
 
 `W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
 
@@ -112,4 +109,4 @@ Once your token request is approved, you instantly have the power to vote on all
 3. Lastly, the initial token holders are long-term committed builders (see [Pre-Seed Builders](#Pre-Seed-Builders) above) who have been contributing since before the project was funded.
 
 **What about vesting?**  
-`W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and issue new tokens to contributors through token timelocks or vesting contracts.
+`W3API` tokens are initially set to be non-transferable. The DAO can decide to change this in the future and mint tokens to contributors via timelock or vesting contracts.
