@@ -22,7 +22,7 @@ To become a *Pre-Seed Funder*:
 2. Click **Connect Wallet** in the top right corner and select your wallet of choice (i.e. Metamask).
 3. Click **New Request** below that
 4. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
-5. In **Requested Amount** enter the **Offered Amount** divided by the current batch price (*$325*). This is the number of `W3API` you will receive.
+5. In **Requested Amount** enter the **Offered Amount** divided by the current batch price. This is the number of `W3API` you will receive.
 6. Press **Create Request** to initiate the proposal and deposit your funds.
 7. Fill out [this quick form](https://airtable.com/shrE0bMs1D07FV3oO).
 
@@ -55,7 +55,7 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
   |-|-|-|
   |~~*A*~~ (filled)|~~1,500 `W3API`~~|~~$200~~|
   |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
-  | *C* | 1,000 `W3API`| $325 |  
+  |~~*C*~~ (filled)|~~1,000 `W3API`~~|~~$325~~|
 
 > NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation will be distributed pro-rata to existing *Pre-Seed Funders*.
 
