@@ -1,6 +1,17 @@
+![](./logo/Web3API_On_Black_BG.jpg)  
 
 # Contributing to the Web3API standard
 
-If you've reached this page it's because you're interested in contributing to the Web3API standard.
+The Web3API Standard makes integrating Web3 protocols quick and seamless without sacrificing decentralization. Learn about the project [here](https://web3api.dev).
 
-To get you started, you can see the [Web3API public roadmap](https://github.com/Web3-API/roadmap), find an issue which you can tackle, and [follow these instructions](./spending-proposals/README.md). 
+We're looking for experienced developers to build Web3. You are a good fit if you have proven experience with:
+- WASM 
+- Typescript
+- Developer Tools
+- GraphQL
+- Solidity
+
+If would like to contribute, please contact:
+
+-
+-
