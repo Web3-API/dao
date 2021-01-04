@@ -14,13 +14,19 @@ NodeFactory proposes creating a first draft of technical specification, creating
 
 ## Deliverables
 
-1. [Technical specification document](https://github.com/Web3-API/prototype/issues/43)
+1. [Technical specification document (1st Draft Complete)](https://github.com/Web3-API/specification)
+    * Some open PRs remain, as they're being iterated on.
+    * All fundamental components of the architecture have been documented.
 2. Setup CI on the [repository](https://github.com/Web3-API/prototype) that would run tests, check types and create build on pull requests and master push.  
 3. [Create Web3 WASM interface definitions using Witx](https://github.com/Web3-API/prototype/issues/5)
 
 
 ## Fund Distribution
 All stable coins and W3API tokens should be send to NodeFactory's address @ `nodefactory.eth` - `0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9`.
+
+| Name | W3API | Address |
+|-|-|-|
+| [Belma](...) | ... | ... |  
 
 ## About us
 NodeFactory is a blockchain research and development company based in Zagreb, Croatia. For the last 3 years, we are successfully providing services such as dApp development, infrastructure and tooling. More information about us and our work can be found on [nodefactory.io](https://nodefactory.io/) and [our portfolio](https://nodefactory.io/NodeFactory_portfolio_v5.pdf).
