@@ -1,4 +1,9 @@
 
+# Coordination Channels
+- [Public Developer Community](Discord)(https://discord.gg/Z5m88a5qWu)
+- [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
+
+
 # Points of Contact
 
 | Domain | Description | Points of Contact |  
@@ -14,7 +19,3 @@
 | Partner Relations | [Manage existing partnerships of the Web3API DAO]() | [Steff]() |  
 | Tokenomics | []() | [Ori](), [Phil]()|  
 | Developer Experience | [Improving the developer experience, from zero to hero.]() | [Tony]() |  
-
-
-# Coordination Channels
-- [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
