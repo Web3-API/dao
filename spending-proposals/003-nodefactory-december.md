@@ -17,7 +17,8 @@ NodeFactory proposes creating a first draft of technical specification, creating
     * Some open PRs remain, as they're being iterated on.
     * All fundamental components of the architecture have been documented.
 2. Setup CI on the [repository](https://github.com/Web3-API/prototype) that would run tests, check types and create build on pull requests and master push.
-    * Mostly done, [1 pending review](https://github.com/Web3-API/prototype/pull/90)  
+    * Done on both `master` and `prealpha-dev` branches
+    * Only lint fixes are [pending PR](https://github.com/Web3-API/prototype/pull/90)  
 3. [Create Web3 WASM interface definitions using Witx](https://github.com/Web3-API/prototype/issues/5)
     * Witx files for WASM interfaces (imports from host and exports from WASM) with generated Markdown files and generation instructions, pending review
     * CI integration that makes sure Markdown files are up to date
