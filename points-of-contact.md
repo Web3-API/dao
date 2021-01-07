@@ -1,17 +1,18 @@
 
 # Points of Contact
 
-### Domains
-
 | Domain | Description | Points of Contact |  
 |-|-|-| 
-| Web3API Core |The core WASM client|[Jordan]()|
-| Web3API Technical Spec |Technical specicication and documentation |[Belma]()|
-| Web3Hub | API and App dicovery platform |[Andrew]()|
-| Web3API Landing Page | https://web3api.dev | [Roberto](https://t.me/daoadvocate) |  
-| Twitter | https://twitter.com/web3api | [Ingamar]() |  gs
-| Branding | https://web3api.dev | [Roberto](https://t.me/daoadvocate) |  
-
+| Web3API Core | [The core WASM client](https://github.com/Web3-API/prototype) |[Jordan]()|
+| Web3API Technical Spec |[Technical specicication and documentation](https://github.com/Web3-API/specification) |[Belma]()|
+| Web3Hub | [API and App discovery platform](#) |[Andrew]()|
+| Landing Page | [Main point of entry to general audience](https://web3api.dev) | [Roberto](https://t.me/daoadvocate) |  
+| Twitter | [Web3API Twitter](https://twitter.com/web3api) | [Ingamar]() |  
+| Substack | [Blog and newsletter]() | [Ingamar]() |  
+| Legal | [](#) | [Alex]() |  
+| Branding | [Text and graphical assess for the brand](https://github.com/Web3-API/branding) | [Roberto](https://t.me/daoadvocate) |  
+| Partner Relations | []() | [Steff]() |  
+| Tokenomics | []() | [Ori]() |  
 
 # Coordination
 
