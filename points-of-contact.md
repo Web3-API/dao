@@ -17,5 +17,4 @@
 
 
 # Coordination Channels
-- [Live Dev Chat]()
 - [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
