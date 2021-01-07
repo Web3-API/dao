@@ -14,11 +14,7 @@ In the future, it is anticipated that the DAO will also govern:
 
 ## Getting Started
 
-### Using the Web3API Standard
-
-Clone the prototype repo [here](https://github.com/Web3-API/prototype)
-
-### Join as Collaborator
+### Dev Mining
 
 To become a *Builder*:
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
@@ -35,11 +31,15 @@ To become a *Builder*:
 
 <img src="./img/token-distribution.png" width="300px"/>
 
+
+### Dev Mining
+12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
+
 ### Pre-Seed Builders
-At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
+At launch 4,000 `W3API` were minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
 ### Pre-Seed Funders
-4,000 `W3API` were minted to *Pre-Seed Funders*, with a goal of raising $1M by December 31st 2020. Tokens were be priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
+4,000 `W3API` were minted to *Pre-Seed Funders*, enabling the DAO to raise $1M by the end of 2020. Tokens were priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
 
   | Batch | Supply | Price |
   |-|-|-|
@@ -47,10 +47,7 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
   |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
   |~~*C*~~ (filled)|~~1,000 `W3API`~~|~~$325~~|
 
-> NOTE: If all 4,000 `W3API` were not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation would have been distributed pro-rata to existing *Pre-Seed Funders*.
 
-### Dev Mining
-12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
 
 ## Use of Funds
 
