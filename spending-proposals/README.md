@@ -1,0 +1,4 @@
+# Web3API Compensation Guidelines
+
+To reward builders, the Web3API DAO plans to emmit 12,000 W3API tokens from the start of Oct 2020 to the end of Dec 2021. Starting with aproximately 100 W3API tokens to builders on the first month, and doubling each month, to reach a total of 12,000 W3API tokens distributed by the end of Dec 2021. Allocations are done based on the USD equivalent (i.e. a Senior builder may ask for 75$ an hour + $50 an hour in W3API.) The price of the W3API to consider is the Fair Market Value, and if not all the tokens are requested on a month, the unclaimed tokens will be minted to the Web3API DAO for later distribution.
+
