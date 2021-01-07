@@ -13,7 +13,9 @@
 | Branding | [Text and graphical assess for the brand](https://github.com/Web3-API/branding) | [Roberto](https://t.me/daoadvocate) |  
 | Partner Relations | []() | [Steff]() |  
 | Tokenomics | []() | [Ori]() |  
+| Developer Experience | []() | [Tony]() |  
 
-# Coordination
 
-[Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
+# Coordination Channels
+- [Live Dev Chat]()
+- [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
