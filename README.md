@@ -47,7 +47,7 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
   |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
   |~~*C*~~ (filled)|~~1,000 `W3API`~~|~~$325~~|
 
-> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation will be distributed pro-rata to existing *Pre-Seed Funders*.
+> NOTE: If all 4,000 `W3API` were not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation would have been distributed pro-rata to existing *Pre-Seed Funders*.
 
 ### Dev Mining
 12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
