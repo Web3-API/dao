@@ -39,7 +39,7 @@ To become a *Builder*:
 At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
 ### Pre-Seed Funders
-4,000 `W3API` will be minted to *Pre-Seed Funders*, with a goal of raising $1M by December 31st. Tokens will be priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
+4,000 `W3API` were minted to *Pre-Seed Funders*, with a goal of raising $1M by December 31st 2020. Tokens were be priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
 
   | Batch | Supply | Price |
   |-|-|-|
