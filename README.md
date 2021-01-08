@@ -12,11 +12,13 @@ In the future, it is anticipated that the DAO will also govern:
 - Web3Hub platform deployments
 - DAO-verified APIs (hosted at web3api.eth subdomains)
 
-## Getting Started
+## Join The DAO!
 
-### Dev Mining
+### Find A Point Of Contact  
+When first getting involved with the project, we recommend reaching out to a point person who's already working on something similar to what you had in mind. You can find a registry of various points of contact [here](./points-of-contact/README.md).  
 
-To become a *Builder*:
+### Make A Proposal
+
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
 2. Duplicate the [`TEMPLATE.md`](./spending-proposals/TEMPLATE.md) file in the [`./spending-proposals`](./spending-proposals) folder.
 3. Name the file, complete all required fields, and feel free to get creative with anything else you'd like to add.
@@ -29,7 +31,7 @@ To become a *Builder*:
 ## Token Distribution
 > NOTE: Tokens are initially set to be non-transferable.
 
-<img src="./img/token-distribution.png" width="300px"/>
+<img src="./bin/token-distribution.png" width="300px"/>
 
 
 ### Dev Mining
@@ -56,11 +58,11 @@ In the first 16 months, it is anticipated that the DAO will allocate funds for:
 - Ops & Adoption - $15,000 / month
 - Legal & SaaS - $5,500 / month
 
-<img src="./img/fund-usage.png" width="600px"/>
+<img src="./bin/fund-usage.png" width="600px"/>
 
 With the goal of delivering the following in 2021:
 
-<img src="./img/roadmap.png" width="600px">
+<img src="./bin/roadmap.png" width="600px">
 
 ## DAO Configuration
 
