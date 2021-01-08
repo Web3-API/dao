@@ -14,20 +14,6 @@ In the future, it is anticipated that the DAO will also govern:
 
 ## Getting Started
 
-### Pre-Seed Funder
-
-To become a *Pre-Seed Funder*:
-
-1. Go to the [DAO's Token Request App](https://client.aragon.org/#/w3api/0x9bb4ea752a3096104c7765ad318b0f9cabaaf95f/).
-2. Click **Connect Wallet** in the top right corner and select your wallet of choice (i.e. Metamask).
-3. Click **New Request** below that
-4. In **Offered Amount** enter the amount you would like to contribute (DAI, USDC, USDT, or TUSD).
-5. In **Requested Amount** enter the **Offered Amount** divided by the current batch price. This is the number of `W3API` you will receive.
-6. Press **Create Request** to initiate the proposal and deposit your funds.
-7. Fill out [this quick form](https://airtable.com/shrE0bMs1D07FV3oO).
-
-`W3API` holders will receive this information and vote on your request. If approved, your funds will transfer to the DAO and `W3API` will be minted to your wallet. If rejected, you will be able to withdraw your funds. You may also withdraw your funds at any time before the request is approved.
-
 ### Dev Mining
 
 To become a *Builder*:
@@ -45,11 +31,15 @@ To become a *Builder*:
 
 <img src="./img/token-distribution.png" width="300px"/>
 
+
+### Dev Mining
+12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
+
 ### Pre-Seed Builders
-At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
+At launch 4,000 `W3API` were minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
 
 ### Pre-Seed Funders
-4,000 `W3API` will be minted to *Pre-Seed Funders*, with a goal of raising $1M by December 31st. Tokens will be priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
+4,000 `W3API` were minted to *Pre-Seed Funders*, enabling the DAO to raise $1M by the end of 2020. Tokens were priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
 
   | Batch | Supply | Price |
   |-|-|-|
@@ -57,10 +47,7 @@ At launch 4,000 `W3API` are minted to *Pre-Seed Builders* in proportion to work 
   |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
   |~~*C*~~ (filled)|~~1,000 `W3API`~~|~~$325~~|
 
-> NOTE: If all 4,000 `W3API` are not sold by December 31st, the remaining `W3API` *Pre-Seed Funder* allocation will be distributed pro-rata to existing *Pre-Seed Funders*.
 
-### Dev Mining
-12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
 
 ## Use of Funds
 
