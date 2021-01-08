@@ -26,14 +26,54 @@ To become a *Builder*:
 
 *Builders* are granted funds and `W3API` tokens on a per-project basis by the Web3API DAO. Projects are approved ahead of time to help manage the DAO budget, maintain accountability, and schedule developments.
 
+
+# Web3API Compensation Guidelines
+
+Here are some guidelines for making your spending proposals. These guidelines are just guidelines, as all final decisions made are made by all tokens holders, known collectively as the "DAO".
+
+## Suggested Builder Rates
+
+Choose a rate commensurate with your level of relevant experience and desired weighting between USD and `W3API`. 
+
+| Level | Years of Experience| Option 1 | Option 2  | Option 3 | Option 4 |
+|-|-|-|-|-|-|
+| Junior | 0-2| 0.05 `W3API`, $50 | 0.125 `W3API`, $35 | 0.225 `W3API`, $20 | 0.375 `W3API`, $0 |
+| Intermediate | 2-4 | 0.06 `W3API`, $65 | 0.15 `W3API`, $50 | 0.27 `W3API`, $35 | 0.45 `W3API`, $0 |
+| Senior | 4+ | 0.07 `W3API`, $80 | 0.175 `W3API`, $65 | 0.315 `W3API`, $50| 0.525 `W3API`, $0 |
+
+We also suggest starting at 25% below your rate for a 4 week trial period.*
+
 ## Token Distribution
 > NOTE: Tokens are initially set to be non-transferable.
 
 <img src="./img/token-distribution.png" width="300px"/>
 
 
-### Dev Mining
-12,000 `W3API` will be minted to *Builders* in proportion to value-added contributions over the first 16 months (~750/month). `W3API` holders will decide on further fundraising and token emission plans after the 16 month pre-seed period.
+### Dev Mining and Token Minting Ceiling
+
+The DAO plans to mint no more than 12,000 tokens to incentivize builders from Oct 1, 2020 through Dec 31, 2021. Below is a suggested schedule for the monthly minting ceiling, which increases by 200 every 2 months until leveling out at 1000/month before reaching a total of 12,000 by the end of 2021. Each month, any unminted tokens may be minted to the Web3API DAO for later distribution.*
+
+|  | Period | Minting Ceiling (`W3API`) |
+|-|-|-|
+| 1 | Sep-2020 | 200 |
+| 2 | Oct-2020 | 200 |
+| 3 | Nov-2020 | 400 |
+| 4 | Dec-2020 | 400 |
+| 5 | Jan-2021 | 600 |
+| 6 | Feb-2021 | 600 |
+| 7 | Mar-2021 | 800 |
+| 8 | Apr-2021 | 800 |
+| 9 | May-2021 | 1000 |
+| 10 | Jun-2021 | 1000 |
+| 11 | Jul-2021 | 1000 |
+| 12 | Aug-2021 | 1000 |
+| 13 | Sep-2021 | 1000 |
+| 14 | Oct-2021 | 1000 |
+| 15 | Nov-2021 | 1000 |
+| 16 | Dec-2021 | 1000 |
+| | TOTAL | 12,000 |
+
+**Please keep in mind that all final decisions must be approved by the DAO.*
 
 ### Pre-Seed Builders
 At launch 4,000 `W3API` were minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
