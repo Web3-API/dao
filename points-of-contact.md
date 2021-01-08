@@ -1,6 +1,6 @@
 
 # Coordination Channels
-- [Public Developer Community](Discord)(https://discord.gg/Z5m88a5qWu)
+- [Public Developer Community (Discord)](https://discord.gg/Z5m88a5qWu)
 - [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
 
 
