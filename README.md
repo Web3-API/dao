@@ -57,28 +57,29 @@ We also suggest starting at 25% below your rate for a 4 week trial period.
 
 ### Dev Mining
 
-The DAO plans to mint no more than 12,000 tokens to incentivize builders from Oct 1, 2020 through Dec 31, 2021. Below is a suggested schedule for the monthly minting ceiling, which increases by 200 every 2 months until leveling out at 1000/month until year's end. Each month, any unminted tokens may be minted to the DAO for later distribution.
+The DAO plans to mint no more than 12,000 tokens to incentivize builders and build the DAO treasury from Oct 1, 2020 through Dec 31, 2021. Below is a suggested schedule for the builder payouts, with a designated Treasury/Buffer beginning March 2021 to serve as a surplus resource for future usage (integration grants, partnerships, fundraising, insurance, liquidity, etc.).*
 
-|  | Period | Minting Ceiling (`W3API`) |
-|-|-|-|
-| 1 | Sep-2020 | 200 |
-| 2 | Oct-2020 | 200 |
-| 3 | Nov-2020 | 400 |
-| 4 | Dec-2020 | 400 |
-| 5 | Jan-2021 | 600 |
-| 6 | Feb-2021 | 600 |
-| 7 | Mar-2021 | 800 |
-| 8 | Apr-2021 | 800 |
-| 9 | May-2021 | 1000 |
-| 10 | Jun-2021 | 1000 |
-| 11 | Jul-2021 | 1000 |
-| 12 | Aug-2021 | 1000 |
-| 13 | Sep-2021 | 1000 |
-| 14 | Oct-2021 | 1000 |
-| 15 | Nov-2021 | 1000 |
-| 16 | Dec-2021 | 1000 |
-| | TOTAL | 12,000 |
+|  | Period | Builder Payout Ceiling | DAO Treasury/Buffer |
+|-|-|-|-|
+| 1 | Sep-2020 | 200 | |
+| 2 | Oct-2020 | 200 | |
+| 3 | Nov-2020 | 400 | |
+| 4 | Dec-2020 | 400 | |
+| 5 | Jan-2021 | 500 | 400 |
+| 6 | Feb-2021 | 500 | 400 |
+| 7 | Mar-2021 | 500 | 400 |
+| 8 | Apr-2021 | 500 | 400 |
+| 9 | May-2021 | 500 | 400 |
+| 10 | Jun-2021 | 500 | 400 |
+| 11 | Jul-2021 | 500 | 400 |
+| 12 | Aug-2021 | 500 | 400 |
+| 13 | Sep-2021 | 500 | 400 |
+| 14 | Oct-2021 | 500 | 400 |
+| 15 | Nov-2021 | 500 | 400 |
+| 16 | Dec-2021 | 500 | 400 |
+| | TOTAL | 7,200 | 4,800 |
 
+\* *Please keep in mind that the DAO can decide to change these plans at any time*
 
 ### Pre-Seed Builders
 At launch 4,000 `W3API` were minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
@@ -91,8 +92,6 @@ At launch 4,000 `W3API` were minted to *Pre-Seed Builders* in proportion to work
   |~~*A*~~ (filled)|~~1,500 `W3API`~~|~~$200~~|
   |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
   |~~*C*~~ (filled)|~~1,000 `W3API`~~|~~$325~~|
-
-\* *Please keep in mind that the DAO can decide to change these plans at any time*
 
 ## DAO Configuration
 
