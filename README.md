@@ -38,7 +38,7 @@ Interested in getting involved?
 
 Here are some guidelines for making your spending proposals. These guidelines are just guidelines, as all final decisions are made by the DAO.
 
-Choose a rate commensurate with your level of relevant experience and desired weighting between USD and `W3API`. 
+Choose an hourly rate commensurate with your level of relevant experience and desired weighting between USD and `W3API`. 
 
 | Level | Years of Experience| Option 1 | Option 2  | Option 3 | Option 4 |
 |-|-|-|-|-|-|
