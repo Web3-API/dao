@@ -21,7 +21,7 @@ Interested in getting involved?
 | Domain| Points of Contact |  
 |-|-|
 | [Web3API Core Client](https://github.com/Web3-API/prototype) | [Jordan](https://t.me/dOrgJelli) |  
-| [Web3API Standard](https://github.com/Web3-API/specification) | [Bella](https://t.me/MorriganIV), [Jordan](https://t.me/dOrgJelli) |  
+| [Web3API Standard](https://github.com/Web3-API/specification) | [Belma](https://t.me/MorriganIV), [Jordan](https://t.me/dOrgJelli) |  
 | Web3Hub | [Andrew](https://t.me/cncrde) |  
 | [Landing Page](https://github.com/Web3-API/landing-page) and [Branding](https://github.com/Web3-API/branding) | [Roberto](https://t.me/daoadvocate) |  
 | [Twitter](https://twitter.com/web3api) and [Substack](https://web3api.substack.com/) | [Ingamar](https://t.me/Ingalandia) |
