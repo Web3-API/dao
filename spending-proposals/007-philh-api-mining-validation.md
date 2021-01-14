@@ -4,7 +4,7 @@
 |-|-|-|
 | $600 + 3,78 `W3API` | Jan 15 - Feb 5, 2021 | 12 hours |
 
-NB: An additional budget of up to 25% of the above will be needed in order to compensate support provided by other contributors.
+NB: An additional budget of up to 50% of the above will be needed in order to compensate support provided by other contributors.
 
 ## Summary
 
