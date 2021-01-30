@@ -15,7 +15,10 @@ Alexander proposes providing the development services of the following:
 
 ## Deliverables
 
-NOTE: This list will be updated before work submission (payout proposal).
+Work has been completed in January towards the following deliverables.
+
+1. CLI Create Command has been implemented (not fully tested as the `@web3api/templates` package hasn't been published to npm yet)
+2. CLI Codegen Command has been implemented
 
 ## Fund Distribution
 
