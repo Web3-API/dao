@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-| $14,000 + 42 `W3API` | Feb 2 - Feb 26, 2021 | 280 hours |
+| $14,000 + 45 `W3API` | Feb 2 - Feb 26, 2021 | 300 hours |
 
 *Note that timeline is an estimate for the deliverables listed below.*
 
@@ -13,7 +13,7 @@ NodeFactory proposes providing the development services of the following:
 * [Add root tsconfig file](https://github.com/Web3-API/prototype/issues/116)
 * [Development of sanity tests](https://github.com/Web3-API/prototype/issues/111)
 * [Support GraphQL Enums](https://github.com/Web3-API/prototype/issues/107)
-* [NPM template for plugins](https://github.com/Web3-API/prototype/issues/110)
+* [IPFS WASM Web3API](https://github.com/Web3-API/monorepo/issues/135)
 * [Validation for union types in GraphQL](https://github.com/Web3-API/prototype/issues/108)
 * [React wrapper lib](https://discord.com/channels/796821176743362611/798543506809290804/799469323584143400)
 * [Logging interface plugin](https://github.com/Web3-API/prototype/issues/33)
