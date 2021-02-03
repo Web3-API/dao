@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-| $14,000 + 45 `W3API` | Feb 2 - Feb 26, 2021 | 300 hours |
+| $13,000 + 40 `W3API` | Feb 2 - Feb 26, 2021 | 280 hours |
 
 *Note that timeline is an estimate for the deliverables listed below.*
 
@@ -15,7 +15,6 @@ NodeFactory proposes providing the development services of the following:
 * [Support GraphQL Enums](https://github.com/Web3-API/prototype/issues/107)
 * [IPFS WASM Web3API](https://github.com/Web3-API/monorepo/issues/135)
 * [Validation for union types in GraphQL](https://github.com/Web3-API/prototype/issues/108)
-* [React wrapper lib](https://discord.com/channels/796821176743362611/798543506809290804/799469323584143400)
 * [Logging interface plugin](https://github.com/Web3-API/prototype/issues/33)
 * [Use pre/post hooks to setup/destroy env](https://github.com/Web3-API/monorepo/issues/129)
 
