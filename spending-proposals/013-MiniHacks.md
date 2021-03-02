@@ -12,12 +12,9 @@ To incentivize all members of the ecosystem to experiment and create new ideas i
 
 We'll host a permissionless, low-maintenance minihackathon each month.
 
-
 ## Fund Distribution
 
-The funds will be distributed pro-rata, according to the results of the votes on all of the submissions.
+The tokens will be distributed pro-rata, as rewards to the participants of each hackathon, according to the results of the votes on all of the submissions.
 Address(es) and distribution of funds will vary each month.
 
 ## About You
-
-My name is Roberto Henriquez. I participated in the HackFS hackathon along with Jordan, Ori, and Cesar. Also I've contributed with branding, ecosystem growth, and overall operations.
