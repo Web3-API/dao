@@ -20,3 +20,4 @@ Address(es) and distribution of funds will vary each month.
 
 ## About You
 
+My name is Roberto Henriquez. I participated in the HackFS hackathon along with Jordan, Ori, and Cesar. Also I've contributed with branding, ecosystem growth, and overall operations.
