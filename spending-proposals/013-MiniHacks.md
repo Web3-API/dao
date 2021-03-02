@@ -6,7 +6,7 @@
 
 ## Summary
 
-To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each month the Web3API DAO will host a mini-hackathon where the best projects will be selected by other members of the DAO, and a reward pool of (40?) W3API tokens will be shared pro-rata to all participants who received votes.
+To incentivize all members of the ecosystem to experiment and create new ideas in a permisionless way, each month the Web3API DAO will host a mini-hackathon where the best projects will be selected by other members of the DAO, and a reward pool of W3API tokens will be shared pro-rata to all participants who received votes.
 
 ## Detailed Deliverables
 
