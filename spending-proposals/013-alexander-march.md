@@ -1,8 +1,8 @@
-# Alexander's services for February
+# Alexander's services for March
 
 | Funds Requested       | Time Period          | Estimated Effort |
 | --------------------- | -------------------- | ---------------- |
-| $10,400 + 9.6 `W3API` | Feb 1 - Feb 28, 2021 | 160 hours        |
+| $10,400 + 28 `W3API`  | Mar 1 - Mar 31, 2021 | 160 hours        |
 
 _Note that timeline is an estimate for the deliverables listed below._
 
@@ -10,11 +10,11 @@ _Note that timeline is an estimate for the deliverables listed below._
 
 Alexander proposes providing the development services of the following:
 
--   Improved Plugin Creator Developer Experience: https://github.com/Web3-API/prototype/issues/110
--   Support "Bytes" as a supported GraphQL scalar (base type): https://github.com/Web3-API/prototype/issues/100
--   Configurable Core Logging: https://github.com/Web3-API/prototype/issues/15
--   CLI Logging Levels: https://github.com/Web3-API/prototype/issues/99
--   `w3 build --watch` Support: https://github.com/Web3-API/prototype/issues/98
+-   Configurable Core Logging: https://github.com/Web3-API/monorepo/issues/15
+-   CLI Logging Levels: https://github.com/Web3-API/monorepo/issues/99
+-   Support Query Fragments: https://github.com/Web3-API/monorepo/issues/67
+-   CLI docgen: https://github.com/Web3-API/monorepo/issues/4
+-   Create Uniswap Web3API: https://github.com/Web3-API/monorepo/issues/128
 
 ## Deliverables
 
