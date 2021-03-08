@@ -20,7 +20,13 @@ NodeFactory proposes providing the development services of the following:
 
 ## Deliverables
 
-NOTE: This list will be updated before work submission (payout proposal).
+* [#116 - added root tsconfig file](https://github.com/Web3-API/monorepo/pull/154)
+* [#11 - moved tests to reusable package](https://github.com/Web3-API/monorepo/pull/160)
+* [#107 - enum support in bind](https://github.com/Web3-API/monorepo/pull/152) and [#107 enum support in parse and compose](https://github.com/Web3-API/monorepo/pull/147)
+* [#33 - w3 logger](https://github.com/Web3-API/monorepo/pull/151)
+* [#129 - teardown test env in client in posttest](https://github.com/Web3-API/monorepo/pull/153)
+* [HTTP plugin upgrade](https://github.com/Web3-API/monorepo/pull/186)
+* [#135 - IPFS package](https://github.com/Web3-API/monorepo/pull/188), still draft because of bugfixing memory limit
 
 ## Fund Distribution
 All stable coins and W3API tokens should be send to NodeFactory's address @ `nodefactory.eth` - `0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9`.
@@ -30,5 +36,4 @@ NodeFactory is a blockchain research and development company based in Zagreb, Cr
 
 Belma Gutlic will be the point of contact for this work:
 - https://github.com/morrigan  
-- @morrigan88 (Keybase)
 - @MorriganIV (Telegram)
