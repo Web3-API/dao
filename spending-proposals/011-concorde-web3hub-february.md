@@ -2,10 +2,10 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-Jeff = | $6,400 + 5.6 `W3API` | Feb 15 - Feb 28, 2020 | 80 hours |
-Marko = | $3,200 + 2.8 `W3API` | Feb 11 - Feb 28, 2020 | 40 hours |
-Andrew = | $4,800 + 4.2 `W3API` | Feb 8 - Feb 28, 2020 | 60 hours |
-*Total = | $14,400 + 12.6 `W3API` | Feb 8 - Feb 28, 2020 | 180 hours |*
+Jeff = | $3,200 + 2.8 `W3API` | Feb 15 - Feb 28, 2020 | 40 hours |
+Marko = | $4,320 + 3.78 `W3API` | Feb 11 - Feb 28, 2020 | 54 hours |
+Andrew = | 10.5 `W3API` | Feb 8 - Feb 28, 2020 | 20 hours |
+*Total = | $7,520 + 17.08 `W3API` | Feb 8 - Feb 28, 2020 | 114 hours |*
 
 *Note that timeline is an estimate for the deliverables listed below based on the maximum number of hours able to be committed to by the team. There's a chance a lower amount of hours end up being worked in February.*
 
@@ -26,8 +26,11 @@ Project management will be facilitated through Linear, day-to-day conversations 
 
 A dedicated GitHub repo will be created for the Web3Hub and features will be committed and merged there as they are completed. The high-level goals for February are:
 - Complete front-end scaffolding and state management setup
+    * 90% completed
 - Complete basic, static, un-styled versions of Browse, View API, and Create API views
+    * 100% completed
 - Complete 50% of UI design work needed
+    * 90% of the overall design has been completed
 
 
 ## Fund Distribution
