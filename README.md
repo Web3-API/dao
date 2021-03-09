@@ -34,6 +34,8 @@ Interested in getting involved?
 
 4. Submit payment proposals on [Aragon](https://client.aragon.org/#/w3api) at the delivery milestones laid out in your proposal.*
 
+\* *Please keep in mind that all final decisions must be approved by the DAO.*
+
 ### Q1 2021 Compensation Guidelines
 
 Here are some guidelines for making your spending proposals. These guidelines are just guidelines, as all final decisions are made by the DAO.
@@ -46,49 +48,41 @@ Choose an hourly rate commensurate with your level of relevant experience and de
 | Intermediate | 2-4 | 0.06 `W3API`, $65 | 0.15 `W3API`, $50 | 0.27 `W3API`, $35 | 0.45 `W3API`, $0 |
 | Senior | 4+ | 0.07 `W3API`, $80 | 0.175 `W3API`, $65 | 0.315 `W3API`, $50| 0.525 `W3API`, $0 |
 
-\* *Please keep in mind that all final decisions must be approved by the DAO.*
+### Spending Projections
+
+Here is the projected global burn rate that builder teams and token holders should consider when drafting and passing spending proposals. These are projections that are subject to change.
+
+| Period | `W3API` | Stablecoins | |
+|-|-|-|-|
+| Sep-2020 | N/A | $12,000 | actual |
+| Oct-2020 | 228.975 | $18,950 | actual |
+| Nov-2020 | 172.215 | $16,017 | actual |
+| Dec-2020 | 391.515 | $32,226 | actual |
+| Jan-2021 | 277 | $47,016 | projected |
+| Feb-2021 | 310 | $52,658 | projected |
+| Mar-2021 | 390 | $67,703 | projected |
+| Apr-2021 | 428 | $75,225 | projected |
+| May-2021 | 467 | $82,748 | projected |
+| Jun-2021 | 467 | $82,748 | projected |
+| Jul-2021 | 467 | $82,748 | projected |
+| Aug-2021 | 467 | $82,748 | projected |
+| Sep-2021 | 467 | $82,748 | projected |
+| Oct-2021 | 489 | $86,509 | projected |
+| Nov-2021 | 489 | $86,509 | projected |
+| Dec-2021 | 489 | $86,509 | projected |
+| TOTAL  | 6,000 | $995,062 | |
 
 ## Token Distribution
 > NOTE: Tokens are initially set to be non-transferable.
 
 <img src="./bin/token-distribution.png" width="300px"/>
 
-### Dev Mining
-
-The DAO plans to mint no more than 12,000 tokens to incentivize builders and build the DAO treasury from Oct 1, 2020 through Dec 31, 2021. Below is a suggested schedule for the builder payouts, with a designated Treasury/Buffer beginning January 2021 to serve as a surplus resource for future usage (integration grants, partnerships, fundraising, insurance, liquidity, etc.).*
-
-|  | Period | Builder Payout Ceiling | DAO Treasury/Buffer |
-|-|-|-|-|
-| 1 | Oct-2020 | 400 | |
-| 2 | Nov-2020 | 400 | |
-| 3 | Dec-2020 | 400 | |
-| 4 | Jan-2021 | 500 | 400 |
-| 5 | Feb-2021 | 500 | 400 |
-| 6 | Mar-2021 | 500 | 400 |
-| 7 | Apr-2021 | 500 | 400 |
-| 8 | May-2021 | 500 | 400 |
-| 9 | Jun-2021 | 500 | 400 |
-| 10 | Jul-2021 | 500 | 400 |
-| 11 | Aug-2021 | 500 | 400 |
-| 12 | Sep-2021 | 500 | 400 |
-| 13 | Oct-2021 | 500 | 400 |
-| 14 | Nov-2021 | 500 | 400 |
-| 15 | Dec-2021 | 500 | 400 |
-| | TOTAL | 7,200 | 4,800 |
+- **Dev Mining** (6,000) - Software and business development efforts from Oct 1, 2020 - Dec 31, 2021 (view spending projections above)
+- **Pre-Seed Builders** (4,000) - Building efforts before Oct 1, 2020 (viewable [here](./token-allocations/pre-seed-builders.csv))
+- **Pre-Seed Funders** (4,000) - Early financial backers (viewable [here](./token-allocations/pre-seed-funders.csv))
+- **DAO Treasury** (6,000) - Surplus resource for future usage (integration grants, partnerships, fundraising, insurance, liquidity, etc.)
 
 \* *Please keep in mind that the DAO can decide to change these plans at any time*
-
-### Pre-Seed Builders
-At launch 4,000 `W3API` were minted to *Pre-Seed Builders* in proportion to work contributed before launch on October 1st (viewable [here](./token-allocations/pre-seed-builders.csv)).
-
-### Pre-Seed Funders
-4,000 `W3API` were minted to *Pre-Seed Funders*, enabling the DAO to raise $1M by the end of 2020. Tokens were priced in three batches (viewable [here](./token-allocations/pre-seed-funders.csv))
-
-  | Batch | Supply | Price |
-  |-|-|-|
-  |~~*A*~~ (filled)|~~1,500 `W3API`~~|~~$200~~|
-  |~~*B*~~ (filled)|~~1,500 `W3API`~~|~~$250~~|
-  |~~*C*~~ (filled)|~~1,000 `W3API`~~|~~$325~~|
 
 ## DAO Configuration
 
