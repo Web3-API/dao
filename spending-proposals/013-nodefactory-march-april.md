@@ -45,5 +45,4 @@ NodeFactory is a blockchain research and development company based in Zagreb, Cr
 
 Belma Gutlic will be the point of contact for this work:
 - https://github.com/morrigan  
-- @morrigan88 (Keybase)
 - @MorriganIV (Telegram)
