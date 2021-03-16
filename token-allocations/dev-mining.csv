@@ -1,13 +1,52 @@
 Address,Minted (W3API),Spending Proposal,Payment Proposal
-0xB1B7586656116D546033e3bAFF69BFcD6592225E,27.14,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/26/
-0x7f3A152F09324f2aee916CE069D3908603449173,3.76,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/27/
-0x61FfE691821291D02E9Ba5D33098ADcee71a3a17,2.82,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/28/
-0x639749b7b08aEe65039c21d8a411103C6ceBEBF0,5.46,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/29/
-0x58B753F0c417494226Af608B63E80028255CBc64,2.35,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/30/
-0x37341cbb14c5F128A70B149726ad8B2CE6F4C793,6.77,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/31/
-0xAa01DeC5307CF17F20881A3286dcaA062578cea7,1.13,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/32/
-0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875,0.57,https://github.com/Web3-API/dao/blob/master/spending-proposals/001-dorg-october-services.md,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/33/
+0xB1B7586656116D546033e3bAFF69BFcD6592225E,27.14,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/26/
+0x7f3A152F09324f2aee916CE069D3908603449173,3.76,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/27/
+0x61FfE691821291D02E9Ba5D33098ADcee71a3a17,2.82,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/28/
+0x639749b7b08aEe65039c21d8a411103C6ceBEBF0,5.46,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/29/
+0x58B753F0c417494226Af608B63E80028255CBc64,2.35,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/30/
+0x37341cbb14c5F128A70B149726ad8B2CE6F4C793,6.77,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/31/
+0xAa01DeC5307CF17F20881A3286dcaA062578cea7,1.13,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/32/
+0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875,0.57,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/33/
+0xB1B7586656116D546033e3bAFF69BFcD6592225E,105.469,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/82/
+0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff,21,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/83/
+0x61ffe691821291d02e9ba5d33098adcee71a3a17,39,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/84/
+0x639749b7b08aee65039c21d8a411103c6cebebf0,113.25,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/85/
+0x58b753f0c417494226af608b63e80028255cbc64,124.875,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/86/
+0x37341cbb14c5f128a70b149726ad8b2ce6f4c793,113.4,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/87/
+0xF6BD8C23142533661D67dc2c724E12C6F43F5B1C,2.25,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/88/
+0xaa01dec5307cf17f20881a3286dcaa062578cea7,54,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/89/
+0xa13Ee4362f171B5c62be230E5EB2fEe8C375b875,21.525,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/90/
+0x355382c41debac9ff3161eaa37472e8efeb0db6a,37.5,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/91/
+0x3a8af31d3cfe775172853528167bb2b5760bf7b9,2.7,001-dorg-q4-2020,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/92/
+0xACBa499f7F33119001077700734010C5fBb82FEe,7.5,005-concorde-december,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/77
+0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9,16,003-nodefactory-december,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/79
+0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9,87.2,003-nodefactory-december,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/80
+0xACBa499f7F33119001077700734010C5fBb82FEe,18.3,005-concorde-december,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/93
+0x7f3A152F09324f2aee916CE069D3908603449173,15,004-remscar-novemeber-december,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/117/
 ,,,
+TOTAL Q4 20,828.969,,
 ,,,
-Total (W3API),Minted (W3API),Unminted (W3API),
-"12,000",50,"11,950",
+0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9,36,006-nodefactory-january,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/94
+0xf7bC1F442d436AFe5754b565bff030c281c9Aa90,2.400,010-alexander-january,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/97
+0x7681c36dA544f25aA37B14d799628530cB071322,2.231,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/99/
+0x639749b7b08aee65039c21d8a411103c6cebebf0,12.923,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/100/
+0x611bB77d28Ee1c06fdC026d7c796D3B1147BF718,69.592,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/101/
+0xef7cfd3a5a1a9ddd3f4582f14b9a98b3e86eded1,3.846,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/102/
+0x58b753f0c417494226af608b63e80028255cbc64,26.538,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/103/
+0xd8879be0032092eb5e610d5a2ab64e56ae010348,6.096,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/104/
+0xb1b7586656116d546033e3baff69bfcd6592225e,3.173,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/105/
+0x0EBcf026946A4de6155961d66D53b0100c6271a1 ,5.385,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/106/
+0xaa01dec5307cf17f20881a3286dcaa062578cea7,15.600,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/107/
+0xa34c8558b22bced464a4c0cf222457bdc632d1d8,0.308,002-fundraising-rewards,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/108/
+0xf7bC1F442d436AFe5754b565bff030c281c9Aa90,9.6,011-alexander-february,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/110
+0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9,40,007-nodefactory-february,https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/113
+,3.78,008-philh-api-mining-validation,
+,TBD,009-dorg-q1-2021,
+,17.08,012-concorde-web3hub-february,
+,40.6,013-concorde-web3hub-march,
+,28,014-alexander-march,
+,20,015-MiniHacks,
+,,,
+TOTAL Q1 21,343.152,,
+,,,
+,98,016-nodefactory-march-april,

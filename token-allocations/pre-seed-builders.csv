@@ -1,80 +1,14 @@
-Total,Points,%,Tokens,Address,Profile
-Jordan,1411.5,51.11%,2045,0xb1b7586656116d546033e3baff69bfcd6592225e,https://github.com/dorgjelli
-Nestor,122.5,4.44%,177,0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff,https://github.com/namesty
-Ori,600,21.73%,869,0x639749b7b08aee65039c21d8a411103c6cebebf0,https://github.com/orishim
-Roberto,385,13.94%,558,0x37341cbb14c5f128a70b149726ad8b2ce6f4c793,https://github.com/rihp
-Cesar,129,4.67%,187,0x61ffe691821291d02e9ba5d33098adcee71a3a17,https://github.com/cbrzn
-Thomas,1.5,0.05%,2,0x36dbcbb5c90e9b00ab658353696610cc5d7b7002,https://github.com/tspoff
-Jesse,9,0.33%,13,0x76bc4c780dd85558bc4b24a4f262f4eb0be78ca7,https://github.com/jessebmiller
-Hector,1.5,0.05%,2,0x5db06acd673531218b10430ba6de9b69913ad545,https://github.com/mrrobot16
-Phil,12,0.43%,17,0xaa01dec5307cf17f20881a3286dcaa062578cea7,https://github.com/PhilH
-Alex,45,1.63%,65,0xa13ee4362f171b5c62be230e5eb2fee8c375b875,
-Ingamar,36.5,1.32%,53,0x58b753f0c417494226af608b63e80028255cbc64,https://twitter.com/Ingalandia
-Eric,8,0.29%,12,0xa15ca74e65bf72730811abf95163e89ad9b9dff6,https://twitter.com/eric_rsno
-TOTAL,2761.5,,4000,,
-,,,,,
-,,,,,
-,,,,,
-Builder,Task,Hours,Impact (<= 3),Points,PoW
-Jordan,ETH NY - Web3Bindings,54,3,162,https://github.com/web3bindings/prototype
-Ori,ETH NY - Web3Bindings,27,3,81,https://github.com/web3bindings/prototype
-Jordan,The Graph - Mutations,480,0.25,120,"https://github.com/dorgtech/the-graph-mutations-spec 
-https://github.com/graphprotocol/mutations"
-Nestor,The Graph - Mutations,480,0.25,120,"https://github.com/dorgtech/the-graph-mutations-spec 
-https://github.com/graphprotocol/mutations "
-Roberto,Web3API Pre-Planning,5,1.5,7.5,"https://docs.google.com/document/d/11xN804hNHW0vNzBAm97weTqOaOEXTc6CCA4cX2-UIvI/edit# 
-https://docs.google.com/document/d/1qvQguJd6iIoj0wyj0dwqsZ-MSr5dMcy3BPxA2t8orB8/edit#heading=h.cuzq9jsjmk1r 
-https://docs.google.com/document/d/1w-u_J6-s0PbFjl09Nsazb28NgL3e3sQ_0LSfFJhicSA/edit "
-Jesse,Web3API Pre-Planning,5,1.5,7.5,"https://docs.google.com/document/d/1UDkOM8_3ryee9hFBOw18opzPA36LdV2Qft1lzGILtqc/edit 
-https://docs.google.com/document/d/15x87pSiW43AQsbwv0-gRxbLqXpS_SYVYQ6PTRx2JHeg/edit#heading=h.2uk65kco036o 
-https://docs.google.com/document/d/11xN804hNHW0vNzBAm97weTqOaOEXTc6CCA4cX2-UIvI/edit# "
-Phil,Web3API Pre-Planning,3,1.5,4.5,https://docs.google.com/document/d/1qvQguJd6iIoj0wyj0dwqsZ-MSr5dMcy3BPxA2t8orB8/edit#heading=h.cuzq9jsjmk1r
-Ingamar,Web3API Pre-Planning,3,1.5,4.5,"https://docs.google.com/document/d/11xN804hNHW0vNzBAm97weTqOaOEXTc6CCA4cX2-UIvI/#edit 
-https://docs.google.com/document/d/1T_vdrxhkFWsm4e0XaqG3bE5hWyS6YJTFucLw9xdm5-M/edit#heading=h.fxbiuhds7vj6 "
-Jordan,Web3API Kickoff Call,1,1.5,1.5,https://youtu.be/iE0W5tUzUC4
-Roberto,Web3API Kickoff Call,1,1.5,1.5,https://youtu.be/iE0W5tUzUC4
-Hector,Web3API Kickoff Call,1,1.5,1.5,https://youtu.be/iE0W5tUzUC4
-Ori,Web3API Kickoff Call,1,1.5,1.5,https://youtu.be/iE0W5tUzUC4
-Jesse,Web3API Kickoff Call,1,1.5,1.5,https://youtu.be/iE0W5tUzUC4
-Cesar,Web3API Kickoff Call,1,1.5,1.5,https://youtu.be/iE0W5tUzUC4
-Thomas,Web3API Kickoff Call,1,1.5,1.5,https://youtu.be/iE0W5tUzUC4
-Jordan,June,112,2,224,"https://github.com/dOrgTech/dorg-engine-spec 
-https://github.com/dOrgTech/dOrgEngine
-https://github.com/dorgengine "
-Ori,June,56,2,112,"https://docs.google.com/document/d/1UDkOM8_3ryee9hFBOw18opzPA36LdV2Qft1lzGILtqc/edit 
-https://docs.google.com/document/d/1slUK0Y81mv12htZfnfSj5ltHpvpDo6BJvxn3cqyKoFE/edit#heading=h.ib1ynyqhwlgs 
-https://docs.google.com/document/d/1w-u_J6-s0PbFjl09Nsazb28NgL3e3sQ_0LSfFJhicSA/edit
-https://docs.google.com/document/d/1qvQguJd6iIoj0wyj0dwqsZ-MSr5dMcy3BPxA2t8orB8/edit 
-https://docs.google.com/document/d/15x87pSiW43AQsbwv0-gRxbLqXpS_SYVYQ6PTRx2JHeg/edit 
-https://docs.google.com/document/d/11xN804hNHW0vNzBAm97weTqOaOEXTc6CCA4cX2-UIvI/edit "
-Jordan,July,128,3,384,"https://github.com/dOrgTech/dorg-engine-spec 
-https://github.com/dOrgTech/dOrgEngine 
-https://github.com/dorgengine "
-Ori,July,56,3,168,HackFS + https://web3api.dev building
-Roberto,July,67,3,201,HackFS + https://web3api.dev building
-Cesar,July,40,3,120,https://github.com/web3-api/prototype
-Jordan,August,160,2.5,400,HackFS Finalizing
-Ori,August,40,2.5,100,HackFS Finalizing
-Roberto,August,40,2.5,100,HackFS Finalizing
-Cesar,August,3,2.5,7.5,HackFS Finalizing
-Ingamar,August,8,2.5,20,Partner Outreach
-Jordan,September,120,1,120,"https://github.com/web3-api/dao
-https://youtu.be/tPs0XbderWA 
-
-Outreach & Meetings"
-Ori,September,55,2.5,137.5,"- Pitch Deck + script
-- Funder + partner convos
-- DAO spec
-- Launch Partner MOU
-- Legal research"
-Roberto,September,30,2.5,75,"- Funding documentation and materials
-- DAO governance calls and syncs
-- Newsletter drafting for mailing list
-- web3api.dev partnership section integration
-- Community integration strategies"
-Ingamar,September,4,3,12,"Set up call with DXdao, Gnosis, soon followup call with DAOstack"
-Phil,September,3,2.5,7.5,"Launching gitcoin campaign + tweets + personal reach out to get people contributing
-https://gitcoin.co/grants/1252/web3api"
-Alex,Legal,15,3,45,Legal consulting for Web3API DAO's launch
-Nestor,September,1,2.5,2.5,Web3api.dev partnership section implementation
-Eric,September,4,2,8,Web3API Seed Deck + Video Feedback
+Address,Minted (W3API)
+0xb1b7586656116d546033e3baff69bfcd6592225e,2045
+0x639749b7b08aee65039c21d8a411103c6cebebf0,869
+0x37341cbb14c5f128a70b149726ad8b2ce6f4c793,558
+0x61ffe691821291d02e9ba5d33098adcee71a3a17,187
+0x2e7f4dd3acd226ddae10246a45337f815cf6b3ff,177
+0xa13ee4362f171b5c62be230e5eb2fee8c375b875,65
+0x58b753f0c417494226af608b63e80028255cbc64,53
+0xaa01dec5307cf17f20881a3286dcaa062578cea7,17
+0x76bc4c780dd85558bc4b24a4f262f4eb0be78ca7,13
+0xa15ca74e65bf72730811abf95163e89ad9b9dff6,12
+0x36dbcbb5c90e9b00ab658353696610cc5d7b7002,2
+0x5db06acd673531218b10430ba6de9b69913ad545,2
+TOTAL,4000

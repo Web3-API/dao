@@ -54,22 +54,11 @@ Here is the projected global burn rate that builder teams and token holders shou
 
 | Period | `W3API` | Stablecoins | |
 |-|-|-|-|
-| Sep-2020 | N/A | $12,000 | actual |
-| Oct-2020 | 228.975 | $18,950 | actual |
-| Nov-2020 | 172.215 | $16,017 | actual |
-| Dec-2020 | 391.515 | $32,226 | actual |
-| Jan-2021 | 277 | $47,016 | projected |
-| Feb-2021 | 310 | $52,658 | projected |
-| Mar-2021 | 390 | $67,703 | projected |
-| Apr-2021 | 428 | $75,225 | projected |
-| May-2021 | 467 | $82,748 | projected |
-| Jun-2021 | 467 | $82,748 | projected |
-| Jul-2021 | 467 | $82,748 | projected |
-| Aug-2021 | 467 | $82,748 | projected |
-| Sep-2021 | 467 | $82,748 | projected |
-| Oct-2021 | 489 | $86,509 | projected |
-| Nov-2021 | 489 | $86,509 | projected |
-| Dec-2021 | 489 | $86,509 | projected |
+| Q4-20 | 828.969 | $79,193 | actual |
+| Q1-21 | 970 | $167,377 | projected |
+| Q2-21 | 1,353 | $240,721 | projected |
+| Q3-21 | 1,392 | $248,244 | projected |
+| Q4-21 | 1,456 | $259,527 | projected |
 | TOTAL  | 6,000 | $995,062 | |
 
 ## Token Distribution
