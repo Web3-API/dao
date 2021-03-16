@@ -1,5 +1,4 @@
-## Spending Proposal 
-# 013-Web3API_MiniHacks
+# Web3API MiniHacks
 
 | Funds Requested | Time Period | Estimated Effort | Effective Rate |
 |-|-|-|-|
