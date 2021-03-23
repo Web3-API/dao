@@ -3,11 +3,11 @@
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
 Jeff = | $12,800 + 11.2 `W3API` | March 1 - March 31, 2021 | 160 hours |
-Andrew = | 15.75 `W3API` | March 1 - March 31, 2021 | 30 hours |
-*Total = | $9,600 + 26.95 `W3API` | March 1 - March 31, 2021 | 190 hours |*
+Andrew = | 21 `W3API` | March 1 - March 31, 2021 | 40 hours |
+*Total = | $9,600 + 32.2 `W3API` | March 1 - March 31, 2021 | 200 hours |*
 
-*Note that timeline is an estimate for the deliverables listed below based on the maximum number of hours able to be committed to by the team. There's a chance a lower amount of hours end up being worked in March.*
-
+*Please note: timeline is an estimate for the deliverables listed below based on the maximum number of hours able to be committed to by the team. There's a chance a lower amount of hours end up being worked in March.*
+*Please note: Andrew's hours include 10 hours spent in January that haven't been billed to the DAO yet.*
 
 ## Summary
 
