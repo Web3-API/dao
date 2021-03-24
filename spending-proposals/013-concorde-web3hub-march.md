@@ -2,12 +2,16 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-Jeff = | $12,800 + 11.2 `W3API` | March 1 - March 31, 2021 | 160 hours |
-Andrew = | 21 `W3API` | March 1 - March 31, 2021 | 40 hours |
-*Total = | $9,600 + 32.2 `W3API` | March 1 - March 31, 2021 | 200 hours |*
+Jeff @ Option 1 = | $9,600 + 8.4 `W3API` | Feb 22 - March 15, 2021 | 120 hours |
+Jeff @ final rate = | $10,400 + 7.28 `W3API` | March 15 - March 31, 2021 | 104 hours |
+Andrew = | 21 `W3API` | January 1 - January 31, 2021; March 1 - March 31, 2021 | 40 hours |
+*Total = | $20,000 + 36.68 `W3API` | January 1 - March 31, 2021 | 264 hours |*
 
-*Please note: timeline is an estimate for the deliverables listed below based on the maximum number of hours able to be committed to by the team. There's a chance a lower amount of hours end up being worked in March.*
-*Please note: Andrew's hours include 10 hours spent in January that haven't been billed to the DAO yet.*
+*Please note: the numbers above include a couple fixes to billing errors from Janruary, February, and March, detailed below:*
+*Jeff's option 1 hours include 40 hours of past work done in February that were missed when submitting final the February proposal.*
+*Jeff's remaining March hours are at a pre-negotiated $100/hr USD + 0.07 token rate that was agreed to take affect after 1 month of successful project work.*
+*Andrew's hours include 10 hours spent in January that haven't been billed to the DAO yet.*
+
 
 ## Summary
 
