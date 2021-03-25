@@ -9,7 +9,7 @@
 
 *Please note: the numbers above include a couple fixes to billing errors from Janruary, February, and March, detailed below:*
 *Jeff's option 1 hours include 40 hours of past work done in February that were missed when submitting final the February proposal.*
-*Jeff's remaining March hours are at a pre-negotiated $100/hr USD + 0.07 token rate that was agreed to take affect after 1 month of successful project work.*
+*Jeff's remaining March hours are at a pre-negotiated $100/hr USD + 0.07 token rate that was agreed to take affect after 1 month of successful project work. Jeff is asking for this rate because he's single handedly implementing the Web3Hub interface which was expected to take ~1.5 developers. He also brings with him ~10 years of development experience.*
 *Andrew's hours include 10 hours spent in January that haven't been billed to the DAO yet.*
 
 
