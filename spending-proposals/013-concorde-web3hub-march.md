@@ -1,11 +1,11 @@
 # Concorde's Services for March
 
-| Funds Requested | Time Period | Estimated Effort |
-|-|-|-|
-Jeff @ Option 1 = | $9,600 + 8.4 `W3API` | Feb 22 - March 15, 2021 | 120 hours |
-Jeff @ final rate = | $10,400 + 7.28 `W3API` | March 15 - March 31, 2021 | 104 hours |
-Andrew = | 21 `W3API` | January 1 - January 31, 2021; March 1 - March 31, 2021 | 40 hours |
-*Total = | $20,000 + 36.68 `W3API` | January 1 - March 31, 2021 | 264 hours |*
+| Builder | Funds Requested | Time Period | Estimated Effort |
+|-|-|-|-|
+| Jeff @ Option 1 = | $9,600 + 8.4 `W3API` | Feb 22 - March 15, 2021 | 120 hours |
+| Jeff @ final rate = | $10,400 + 7.28 `W3API` | March 15 - March 31, 2021 | 104 hours |
+| Andrew = | 21 `W3API` | January 1 - January 31, 2021; March 1 - March 31, 2021 | 40 hours |
+| *Total = | $20,000 + 36.68 `W3API` | January 1 - March 31, 2021 | 264 hours |*
 
 *Please note: the numbers above include a couple fixes to billing errors from Janruary, February, and March, detailed below:*
 *Jeff's option 1 hours include 40 hours of past work done in February that were missed when submitting final the February proposal.*
