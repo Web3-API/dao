@@ -1,4 +1,4 @@
-# SeaNinjas Capital Raise and Liqduitity Creation Proposal
+# SeaNinjas Capital Raise and Liquidity Creation Proposal
 
 
 | Funds Requested | Time Period |
