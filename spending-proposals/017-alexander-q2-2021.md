@@ -2,7 +2,7 @@
 
 | Funds Requested       | Time Period          | Estimated Effort |
 | --------------------- | -------------------- | ---------------- |
-| $10,400 + 28 `W3API`  | Mar 1 - Mar 31, 2021 | 160 hours        |
+| $31,200 + 84 `W3API`  | Apr 1 - Jun 30, 2021 | 480 hours        |
 
 _Note that timeline is an estimate for the deliverables listed below._
 
@@ -10,16 +10,14 @@ _Note that timeline is an estimate for the deliverables listed below._
 
 Alexander proposes providing the development services of the following:
 
--   Configurable Core Logging: https://github.com/Web3-API/monorepo/issues/15
+-   Improved Plugin Creator Developer Experience: https://github.com/Web3-API/monorepo/issues/110
+-   Create an improved Ethereum API interface: https://github.com/Web3-API/monorepo/issues/102
 -   CLI Logging Levels: https://github.com/Web3-API/monorepo/issues/99
--   Support Query Fragments: https://github.com/Web3-API/monorepo/issues/67
--   CLI docgen: https://github.com/Web3-API/monorepo/issues/4
--   Create Uniswap Web3API: https://github.com/Web3-API/monorepo/issues/128
+-   TBD
 
-## Deliverables
+## Deliverable Log
 
--   Finished unit/e2e tests for cli commands
--   Implemented core tracing by using opentelemetry-js
+The deliverable log below will be updated at the end of each month.
 
 ## Fund Distribution
 
