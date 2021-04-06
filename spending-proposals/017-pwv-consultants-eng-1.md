@@ -79,9 +79,9 @@ An architecture plan will lay the roadmap for further execution and development 
     * Any outstanding questions or known unknowns. Additional information and or sections are often added depending on the project needs as they develop. Plans are typically 30-150 pages depending on what is sufficient to document what needs to be understood to build the project. The plan is typically presented as a PDF that we review in at least one meeting and then discuss in further meetings and revise for specificity. We have and can on request also modify the plan into a brief slide deck that isolates most of the diagrams, lists, and schedules.
 
 ## Billing Details
-$5,610 due upfront, the remaining balance will be confirmed based on actual hours worked and paid out upon completion.
+$5,610 USDC due upfront, the remaining balance will be confirmed based on actual hours worked and paid out upon completion.
 
-**Payment Address:** 0x12f8955F90E1Cfbc04bb49b41Ea2598E60366B8a
+**Payment Address (USDC Only):** 0x663995638d14995cE862e5Aa8af5FC1B826Dc54b
 
 ## About You
 ### PWV Consultants
