@@ -24,8 +24,8 @@ We are proposing to initiate prepation for the next cycle of Web3APIs fundraise.
 
 | Name | Address | Amount (`W3API`) |
 |-|-|-|
-| Ron | `0x355382c41dEBaC9FF3161Eaa37472e8EFEB0DB6a` | 300 |
-| Ninja Manta | `0x30Ea4d6ca3d1CF72028d4ea62c34E673AA50459D` | 300 |
+| Ron | `0x355382c41dEBaC9FF3161Eaa37472e8EFEB0DB6a` | 50 |
+| Ninja Manta | `0x30Ea4d6ca3d1CF72028d4ea62c34E673AA50459D` | 50 |
 
 ## **About You**
 
