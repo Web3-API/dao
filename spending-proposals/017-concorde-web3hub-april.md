@@ -2,9 +2,9 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-Jeff = | $17,600 + 12.32 `W3API` | April 1 - April 30, 2021 | 176 hours |
-Andrew = | 7.875 `W3API` | April 1 - April 30, 2021 | 15 hours |
-*Total = | $17,600 + 20.195 `W3API` | April 1 - April 30, 2021 | 175 hours |*
+Jeff = | $13,600 + 9.52 `W3API` | April 1 - April 30, 2021 | 136 hours |
+Andrew = | 2.625 `W3API` | April 1 - April 30, 2021 | 5 hours |
+*Total = | $13,600 + 12.145 `W3API` | April 1 - April 30, 2021 | 141 hours |*
 
 *Please note: timeline is an estimate for the deliverables listed below based on the maximum number of hours able to be committed to by the team. There's a chance a lower amount of hours end up being worked.*
 
