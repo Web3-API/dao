@@ -3,7 +3,7 @@
 
 | Funds Requested | Time Period |
 |-|-|
-| $0 + 100 `W3API` | Apr 20, 2021 - May 20, 2021 | 
+| $0 + 100 `W3API` | Apr 28, 2021 - May 31, 2021 | 
 
 ## **Summary**
 
