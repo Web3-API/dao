@@ -20,7 +20,7 @@ I am proposing to drive prepation for the next Web3API fundraise. The pre-seed r
 ## **Fund Distribution**
 
 
-100 `W3API` to be allocated for preparation of the seed deck, stewarding the rebrand, gathering investors, and advising on valuation by May 30th.
+100 `W3API` to be allocated for preparation of the seed deck, stewarding the rebrand, gathering backers, and advising on valuation by May 30th.
 
 | Name | Address | Amount (`W3API`) |
 |-|-|-|
