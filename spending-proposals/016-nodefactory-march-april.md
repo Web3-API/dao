@@ -50,6 +50,11 @@ This list will be updated at the end of each month and before work submission (p
 ## Fund Distribution
 All stable coins and W3API tokens should be send to NodeFactory's address @ `nodefactory.eth` - `0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9`.
 
+| Period | Amount | Proposal |  
+|-|-|-|  
+| March | $9,880 | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/129/ |  
+| March | 27 W3API | https://client.aragon.org/#/w3api/0x5f78d0668ba666b4ed9674b313419d9db6cd48a6/vote/128/ |  
+
 ## About us
 NodeFactory is a blockchain research and development company based in Zagreb, Croatia. For the last 3 years, we are successfully providing services such as dApp development, infrastructure and tooling. More information about us and our work can be found on [nodefactory.io](https://nodefactory.io/) and [our portfolio](https://nodefactory.io/NodeFactory_portfolio_v5.pdf).
 
