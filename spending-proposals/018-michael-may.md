@@ -10,9 +10,10 @@ _Note that timeline is an estimate for the deliverables listed below._
 
 Michael proposes providing the development services of the following:
 
--   Configure Web3APIs Using Env Variables: https://github.com/Web3-API/monorepo/issues/140
--   Support: UInt64, UInt256, Int64, Int256: https://github.com/Web3-API/monorepo/issues/196
--   Support Float32 and Float64 as Base Schema Types: https://github.com/Web3-API/monorepo/issues/306
+-   REST Support : https://github.com/Web3-API/monorepo/issues/31
+-   Demo: Show a loading animation for all async actions (deploy, set) : https://github.com/Web3-API/monorepo/issues/220
+-   Demo: Notifications for resolving URI & downloading the WASM : https://github.com/Web3-API/monorepo/issues/221
+
 ## Deliverables
 
 ## Fund Distribution
