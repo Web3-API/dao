@@ -36,7 +36,7 @@ Interested in getting involved?
 
 4. Submit payment proposals on [Aragon](https://client.aragon.org/#/w3api) at the delivery milestones laid out in your proposal.
 
-### **Q1 2021 Compensation Guidelines**
+### **Compensation Guidelines**
 
 Here are guidelines for making your spending proposals. Please keep in mind that all final decisions must be approved by the DAO.
 
@@ -44,9 +44,9 @@ Choose an hourly rate commensurate with your level of relevant experience and de
 
 | Level        | Years of Experience | Option 1          | Option 2           | Option 3           | Option 4          |
 | ------------ | ------------------- | ----------------- | ------------------ | ------------------ | ----------------- |
-| Junior       | 0-2                 | 0.05 `W3API`, $50 | 0.125 `W3API`, $35 | 0.225 `W3API`, $20 | 0.375 `W3API`, $0 |
-| Intermediate | 2-4                 | 0.06 `W3API`, $65 | 0.15 `W3API`, $50  | 0.27 `W3API`, $35  | 0.45 `W3API`, $0  |
-| Senior       | 4+                  | 0.07 `W3API`, $80 | 0.175 `W3API`, $65 | 0.315 `W3API`, $50 | 0.525 `W3API`, $0 |
+| Junior       | 0-2                 | 0.10 `W3API`, $50 | 0.25 `W3API`, $35 | 0.45 `W3API`, $20 | 0.75 `W3API`, $0 |
+| Intermediate | 2-4                 | 0.12 `W3API`, $65 | 0.30 `W3API`, $50  | 0.54 `W3API`, $35  | 0.90 `W3API`, $0 |
+| Senior       | 4+                  | 0.14 `W3API`, $80 | 0.35 `W3API`, $65 | 0.63 `W3API`, $50 | 1.05 `W3API`, $0 |
 
 ### **Web3API DAO Dashboard**
 
@@ -66,11 +66,11 @@ Here is the projected W3API token spending that token holders should consider wh
 | Period | `W3API`           |           |
 | ------ | ----------------- | --------- |
 | Q4-20  | 828.969           | actual    |
-| Q1-21  | ~~970~~ 703.95475 | actual    |
-| Q2-21  | 1,353             | projected |
-| Q3-21  | 1,392             | projected |
-| Q4-21  | 1,456             | projected |
-| TOTAL  | 6,000             |           |
+| Q1-21  | 1,052.1255		 | actual    |
+| Q2-21  | 3,372.9685        | projected |
+| Q3-21  | 3,372.9685        | projected |
+| Q4-21  | 3,372.9685        | projected |
+| TOTAL  | 12,000             |           |
 
 ## **Token Distribution**
 
@@ -78,10 +78,9 @@ Here is the projected W3API token spending that token holders should consider wh
 
 <img src="./bin/token-distribution.png" width="300px"/>
 
-- **Dev Mining** (6,000) - Software and business development efforts from Oct 1, 2020 - Dec 31, 2021 (view spending projections above)
+- **Dev Mining** (12,000) - Software and business development efforts from Oct 1, 2020 - Dec 31, 2021 (view spending projections above)
 - **Pre-Seed Builders** (4,000) - Building efforts before Oct 1, 2020 (viewable [here](./token-allocations/pre-seed-builders.csv))
 - **Pre-Seed Funders** (4,000) - Early financial backers (viewable [here](./token-allocations/pre-seed-funders.csv))
-- **DAO Treasury** (6,000) - Surplus resource for future usage (integration grants, partnerships, fundraising, insurance, liquidity, etc.)
 
 \* _Please keep in mind that the DAO can decide to change these plans at any time_
 
