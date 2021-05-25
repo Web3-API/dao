@@ -3,6 +3,7 @@
 | Funds Requested | Time Period | 
 |-|-|
 | 526.06275 `W3API` | Q1 2021 | 
+| 58 `W3API` | Q2 2021 |
 
 ## Summary
 
@@ -46,4 +47,6 @@ We anticipate that 2x-ing the originally proposed token rates will still keep us
 |0xf7bC1F442d436AFe5754b565bff030c281c9Aa90|28       |014-alexander-march            |
 |0x937F5b32Bc3cafcd1B02462F93e6AE5a843f6C6A|12       |014-kevin-march                |
 |0xbD9f96663E07a83ff18915c9074d9dc04d8E64c9|27       |016-nodefactory-march-april    |
-|TOTAL                                     |526.06275|                               |
+| 0xf7bC1F442d436AFe5754b565bff030c281c9Aa90|28	     |020-alexander-q2-2021          |
+| 0x937F5b32Bc3cafcd1B02462F93e6AE5a843f6C6A|24	     |019-kevin-apr-may              |
+|TOTAL                                     |578.06275|                               |
