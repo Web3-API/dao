@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort 
 |-|-|-|
-| None | June 1 | 4 hrs |
+| Gas Reimbursement | June 1 | 4 hrs |
 
 ## Summary
 
@@ -22,7 +22,7 @@ Here is how the Safe + Snapshot setup would mitigate these problems:
 - Safe's Transaction Builder app makes it easier to chain together multiple transactions, such as a batched payment, into a single atomic action
 - Safe allows for generic contract interaction and supports a growing suite of easy-to-use apps like Superfluid, 1inch, ENS, and Yearn
 
-The main drawback of this approach is that execution is no longer autonomous as is the case with Aragon, since the multisig signers must be trusted to act in accordance with Snapshot proposals. We believe that this risk can be mitigated in the near-term by having a representative sample of token holders selected as signers. (potential alternative: what if we have a token-weighted random sample of signers selected to govern for 2 month terms?)
+The main drawback of this approach is that execution is no longer autonomous as is the case with Aragon, since the multisig signers must be trusted to act in accordance with Snapshot proposals. We believe that this risk can be mitigated in the near-term by having a representative sample of the top 51% of token holders selected as signers.
 
 Furthermore, migrating to Safe + Snapshot positions us to be an early adopter of the recently released SafeSnap product, which utilizes the Reality.eth oracle service to guaruntee that the Safe can only execute transactions approved by Snapshot proposals. We will continue to interface with the SafeSnap team to evaluate when this solution is ready for us to migrate to.
 
