@@ -38,9 +38,6 @@ Interested in getting involved?
 
 ### **Q1 2021 Compensation Guidelines**
 
-> **First time submitting a proposal to Web3API DAO?** > <br/>
-> For new builders, we have a cap of **$8,500** for the first month, unless approval is provided by the Web3API DAO.
-
 Here are guidelines for making your spending proposals. Please keep in mind that all final decisions must be approved by the DAO.
 
 Choose an hourly rate commensurate with your level of relevant experience and desired weighting between USD and `W3API`.
