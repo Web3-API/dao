@@ -2,9 +2,7 @@
 
 | Funds Requested      | Time Period          | Estimated Effort |
 | -------------------- | -------------------- | ---------------- |
-| $10,400 + 28 `W3API` | Apr 1 - Apr 30 | 160 hours        |
-| $10,400 + 56 `W3API` | May 1 - May 31 | 160 hours        |
-| $10,400 + 56 `W3API` | Jun 1 - Jun 30 | 160 hours        |
+| $20,800 + 112 `W3API` | Apr 1 - Jun 30, 2021 | 320 hours        |
 
 _Note that timeline is an estimate for the deliverables listed below._
 
@@ -26,7 +24,7 @@ The deliverable log below will be updated at the end of each month.
 1. CLI `codegen` command was updated to use both `web3api.yaml` and `web3api.gen.js` files to generate code and build schema
 2. CLI `plugin` command was implemented to do specific `build` and `codegen` actions for plguins using pre-defined schema
 3. Unit tests were updated/written for the both commands
-4. CLI `trace` command was added and `@web3api/tracing` package was updated to support log levels (WIP - logging server needs to be added)
+4. CLI `trace` command was added and `@web3api/tracing` package was updated to support log levels
 
 ## Fund Distribution
 

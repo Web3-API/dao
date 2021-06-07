@@ -7,14 +7,9 @@
 
 ## Summary
 
-In April 2021, I expanded my developer relations engineer role to also work on DAO operations work.  May 2021 will expand upon the work that I've already done in April as well as new initiatives, like a Web3API Academy (see below for more details).
+In April 2021, I expanded my developer relations engineer role to also work on DAO operations work.
 
-## Contents
-- April 2021 Updates
-  - Progress from my original April 2021 proposal
-  - Additions to my original April 2021 proposal
-- Incomplete work to roll over to May 2021
-  - Additions to May 2021 proposal   
+In May 2021, the highlights were meeting with about 6 launch partners to onboard them into building Web3APIs, signing on two new LPs (Chainstack / Enya-OMG Network), and nearing the completion of the Uniswap V2 Web3API demo.  In between, also worked on various Operations tasks such as reviewing dev-mining files, discussing DAO migration, rebranding, onboarding Leif, etc.
 
 ## April 2021 Updates
 
@@ -60,31 +55,45 @@ See below for my progress updates as of April 30, 2021:
 **Recruiting**
 - Reached out to candidates for the Rust developer position, and work with an engineering team to search for developer.
 
-### Incomplete work to roll over to May 2021:
-- Write specification using [Spec Markdown](https://spec-md.com/), or similiar tool.
-- Write documentation for [Web3API tooling](https://docs.web3api.dev/devtools/web3api-cli).
-
 ### Additions to May 2021 proposal:
+
+**Launch Partner**
+- Continue to message our LPs to complete the feedback form and look at our documentation.
+- Met with ~6-7 launch partners to onboard them in building their Web3API.  Met with Gnosis where Jordan worked on a sample Gnosis Web3API.
+- - Each meeting was an hour each and consisted of talking about Web3API, and showing the work we've done with Uniswap v2 Web3API
+- Met and signed on launch partners: Chainstack, Enya/OMG Network
+
+**Documentation**
+- I would like to make the documentation more complete and professional.
+- - Break the documentation guides into easier-to-follow parts, instead of one long guide.
+- Walked thru documentation in detail with Roberto
+- Write documentation for [Web3API tooling](https://docs.web3api.dev/devtools/web3api-cli).
+- - Completed docs for `cli`, `client-js` and `react`.
+
+**Uniswap**
+- Continue working on Uniswap dApp demo.
+- - PROGRESS: 95% complete.  Need to merge with Kris's branch.
+- Complete Uniswap v2 Web3API documentation.
+- - PROGRESS: 95% complete.  It's written, need to review.
+- Worked on Uniswap V3 Grant application
+- - PROGRESS: 95% complete.  Need to finalize budget section
+
+**Operations**
+- Complete the operating model and make sure that it is easy to use and understand for our DAO members.
+- - DONE.  This is the DAO statistics dashboard, where members can easily see current month budget, cash balance, etc.
+- Help onboard Leif, product manager
+- Attend branding meetings and provide input
+- Review dev mining csvs for Ori and Jordan
+- Facilitate meetings/take notes
+
+
+## Incomplete work to roll over to June 2021
 **Web3API Academy**
 - Create documentation for "pre-req" knowledge needed to fully understand Web3API:
   -  WebAssembly, and the languages that compile to it (AssemblyScript, Rust, Go, etc.).
   -  Introduction to GraphQL as it relates to Web3API.
-
-**Launch Partner**
-- Write a mission documentation to clearly outline the goals of the LP program.
-- Continue to message our LPs to complete the feedback form and look at our documentation.
-
-**Documentation**
-- I would like to make the documentation more complete and professional.
-  - Add a "Tutorial" section, meant for newbies to use Web3APIs in their dApps for hackathons.  Inspired by [Hardhat's Tutorial](https://hardhat.org/tutorial/).
-
-**Uniswap**
-- Continue working on Uniswap dApp demo.
-- Complete Uniswap v2 Web3API documentation.
-
-**Operations**
-- Complete the operating model and make sure that it is easy to use and understand for our DAO members.
 - Update the current proposal process.
+- Write specification using [Spec Markdown](https://spec-md.com/), or similiar tool.
 
 
 ## Fund Distribution
@@ -93,27 +102,9 @@ Distribution of funds of all stable coins and W3API tokens should be sent to Kev
 
 ## About Me
 
-My background is in developer relations, operations, and software development, and before Web3API DAO, I contributed to Reactime, a developer tool to analyze UI performance in React apps.  When I'm not working, I like pixel art, video games, and anime.  I'm collaborating with a pixel artist from the UK to make an NFT art collection.
+My background is in developer relations, operations, and software development, and before Web3API DAO, I contributed to Reactime, a developer tool to analyze UI performance in React apps.  When I'm not working, I like pixel art, video games, and anime.
 
 - [GitHub](https://github.com/kev-ngo)
 - [Twitter](https://www.twitter.com/kevinngo_la)
-- Clubhouse: @kevin.ngo
 - Discord: keeevin#7783
-
-## Screenshots
-
-### Documentation
-
-<img width="1552" alt="Screen Shot 2021-05-05 at 11 18 20 PM" src="https://user-images.githubusercontent.com/69411313/117253660-5129f480-adfc-11eb-98f4-667b407b547f.png">
-
-### Operating model (preview)
-
-<img width="1552" alt="Screen Shot 2021-05-05 at 11 18 00 PM" src="https://user-images.githubusercontent.com/69411313/117253913-a7973300-adfc-11eb-9f6a-8226315a9a9e.png">
-
-### "Hello World" Demo dApp
- ![Screen Shot 2021-05-05 at 11 49 30 PM](https://user-images.githubusercontent.com/69411313/117254179-efb65580-adfc-11eb-9e0f-57e11ca6c876.png)
-
-
-
-
 
