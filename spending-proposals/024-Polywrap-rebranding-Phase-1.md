@@ -8,7 +8,7 @@
 | Builder | hr/wk | Total Hrs | Hr Rate | Total Payment |
 |-|-|-|-|-|-|
 | Mery | 10 hr/wk | 70 hrs | 0.14 `W3API`, $80 | 9.80 `W3API`, $5,600 |
-| Gianni | 3 hr/wk | 21 hrs | 0.5 `W3API`, $80 | 0.5 `W3API`, $2,100 |
+| Gianni | 3 hr/wk | 21 hrs | 0.5 `W3API`, $80 | 6.615 `W3API`, $1,050 |
 
 ## Summary
 
