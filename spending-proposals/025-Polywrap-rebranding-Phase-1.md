@@ -2,13 +2,13 @@
 
 | Timeframe | Total Payment | Estimated Effort | 
 |-|-|-|
-| May 3 - Jun 18 (7 wks) | 15,925 `W3API` + $5,600 | ~91 hrs |
+| May 3 - Jun 18 (7 wks) | 15.925 `W3API` + $5,600 | ~91 hrs |
 
 
 | Builder | hr/wk | Total Hrs | Hr Rate | Total Payment |
 |-|-|-|-|-|
-| Mary | 10 hr/wk | 70 hrs | 0.14 `W3API` + $80 | 4,90 `W3API`, $5,600 |
-| Gianni | 3 hr/wk | 21 hrs | 0.525 `W3API` +  $0 | 11,025 `W3API`, $0 |
+| Mary | 10 hr/wk | 70 hrs | 0.14 `W3API` + $80 | 4.90 `W3API`, $5,600 |
+| Gianni | 3 hr/wk | 21 hrs | 0.525 `W3API` +  $0 | 11.025 `W3API`, $0 |
 
 ## Summary
 
