@@ -2,11 +2,11 @@
 
 | Funds Requested | Time Period | Estimated Effort 
 |-|-|-|
-| Gas Reimbursement | June 1 | 4 hrs |
+| Gas Reimbursement | June 1 | 6 hrs |
 
 ## Summary
 
-This proposal is to migrate our DAO from Aragon to Gnosis Safe + Snapshot. This will also include a redeployment of the token contract that migrates all existing balances and changes the token ticker to `WRAP` and name to `PolyWrap Token` as part of the ongoing rebrand.
+This proposal is to migrate our DAO from Aragon to Gnosis Safe + Snapshot. This will also include a redeployment of the token contract that migrates all existing balances and changes the token ticker to `WRAP-IOU` and name to `PolyWrap IOU Token` as part of the ongoing rebrand.
 
 ## Detailed Deliverables
 
@@ -46,5 +46,7 @@ Furthermore, migrating to Safe + Snapshot positions us to be an early adopter of
     - Deploy from the Safe with the Safe set as the owner with minting permissions
     - Seed the distribution with snapshot of [`W3API` balances](https://etherscan.io/token/0x9F59E5Ed123C10D57E92629612511b14628D2799)
     - Keep transferrability turned off but changeable by owner
+
 3. Create proposals on Aragon to transfer all funds to the Safe 
+
 4. Setup snapshot page with new token
