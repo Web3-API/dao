@@ -24,6 +24,8 @@ Here are the details:
   - Need to update demos repo to reflect this
 - Add 1-2 more demos to the demos repo and documentation
 - Continue to maintain the documentation page
+- Add Polywrap academy pages
+- Write specifications
 
 ### Apply Polywrap Rebranding
 
@@ -37,27 +39,38 @@ Here are the details:
 
 ### Uniswap
 
-- Meet with Uniswap developer to show him the Uni V2 Demo
-- Complete grant application for Uni V3 Web3API
-- Complete Uni V3 Web3API documentation
-- Complete Uni V3 Web3API demo -- styling / helping Kris replace functions
+- Complete Uni v2 W3API recording
+- Work on rebranding the Uni v2 demo
+- Submit Uni v3 application
+
 
 ### Launch Partner Program
 
 - Let LPs know about updated brand
-- Prepare for LP meetings
+- LP meetings
+  - Meet with potential new LP, Frontier.xyz 
+  - Meet with potential new LP, Ethereum Enterprise Alliance (EEA)
 - Meet with 3-5 LPs to walk them through the process of building their Web3APIs
+  - Work with Squad Games on going through the docs and work on their Web3API
 - Have 2 LPs to start building their Web3APIs
-  - The ones that seem like they can start building include: Gnosis, Jarvis, Enya/OMG Network, Gelato
+  - Squad games will begin working on their Web3API, and Gelato is working on the specs
 
 ### Operations
 
-- Work on updated proposal workflow
-- Assist Leif with Notion operations management
+- Give talk to Blockchain Education Network (BEN) about Web3API (part of the Uni grants program)
+- Meet with Ori, Rob, Jordan, and others regarding rebranding, fundraising, planning for EthCC, Legal, and more
+- Work with Roberto to host new website `Polywrap.io`
 
 ## Fund Distribution
 
 Distribution of funds of all stable coins and W3API tokens should be sent to Kevin Ngo's address @ `0x937F5b32Bc3cafcd1B02462F93e6AE5a843f6C6A`.
+
+## Updates as of June 23, 2021
+- As of today, we are still working on Uni v2 which was delayed due to a few bugs.  I originally planned to work on Uni v3 docs and demo this month but that may need to be pushed to next month:
+- - Meet with Uniswap developer to show him the Uni V2 Demo
+- - Complete grant application for Uni V3 Web3API
+- - Complete Uni V3 Web3API documentation
+- - Complete Uni V3 Web3API demo -- styling / helping Kris replace functions
 
 ## About Me
 
