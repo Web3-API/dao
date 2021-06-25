@@ -9,7 +9,7 @@ I would like to help in the community part with:
 
 And whatever it takes to help the community, basically being a community manager. :D
 
-# Plan 1
+# Plan 1 to grow the community
 
 We can do a contest on Discord that is "Describe Polywrap in one sentence" and the 3 most creative win a prize, examples: "Polywrap is so effective and easy that you can use it with any programming language"
 ![contestt](https://user-images.githubusercontent.com/84420858/123455040-9cb87d80-d5b7-11eb-92d4-6611e5fa57f7.PNG)
