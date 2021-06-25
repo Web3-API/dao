@@ -18,6 +18,7 @@ We can do a contest on Discord that is "Describe Polywrap in one sentence" and t
 # Plan 2
 
 Meme contest with some dynamics, example:
+
 ![conteest](https://user-images.githubusercontent.com/84420858/123455591-45ff7380-d5b8-11eb-9145-ccc0ff0e3ef1.PNG)
 
 
