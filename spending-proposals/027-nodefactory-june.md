@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Estimated Effort |
 |-|-|-|
-| $4000 + 7 `W3API` | June 1 - June 30, 2021 | 45 hours |
+| $4000 + 7 `W3API` | June 1 - June 30, 2021 | 50 hours |
 
 ## Summary
 
