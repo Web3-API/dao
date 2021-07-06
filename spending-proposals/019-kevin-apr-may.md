@@ -3,7 +3,7 @@
 | Funds Requested     | Time Period                   | Estimated Effort | Effective Rate          |
 | ------------------- | ----------------------------- | ---------------- | ----------------------- |
 | $8,000 + 24`W3API` | April 1, 2021 to April 30, 2021 | 160 Hours        | $50/hr + 0.15`W3API`/hr |
-| $8,000 + 24`W3API` | May 1, 2021 to May 31, 2021 | 160 Hours        | $50/hr + 0.15`W3API`/hr |
+| $8,000 + 48`W3API` | May 1, 2021 to May 31, 2021 | 160 Hours        | $50/hr + 0.15`W3API`/hr |
 
 ## Summary
 

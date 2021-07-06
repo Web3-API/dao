@@ -1,8 +1,10 @@
 # Leif Kramer May-June 2021 - Product Services Proposal
 
+*"Note:  This work is now being done within the dOrg workstream" 
+
 | Funds Requested | Time Period | Estimated Effort | Effective Rate |
 |-|-|-|-|
-| $9750 + 26 `W3API` |May 17, 2021 - June 30, 2021  | 150Hrs | $65 + 0.175 `W3API` |
+| $0 + 0 `W3API` |May 17, 2021 - June 30, 2021  | 150Hrs | $0 + 0 `W3API` |
 
 ## Summary
 

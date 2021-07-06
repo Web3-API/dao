@@ -2,7 +2,7 @@
 
 | Funds Requested      | Time Period          | Estimated Effort |
 | -------------------- | -------------------- | ---------------- |
-| $20,800 + 56 `W3API` | Apr 1 - Jun 30, 2021 | 320 hours        |
+| $20,800 + 112 `W3API` | Apr 1 - Jun 30, 2021 | 320 hours        |
 
 _Note that timeline is an estimate for the deliverables listed below._
 
